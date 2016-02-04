@@ -1,0 +1,12 @@
+.jumbotron{
+	background-color: white; 
+	text-align:center; 
+	width: 100%; 
+	border-radius: 0.5vh;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25vh;
+	padding-left: 5vw;
+	padding-right: 5vw;
+	overflow: hidden;
+	}
